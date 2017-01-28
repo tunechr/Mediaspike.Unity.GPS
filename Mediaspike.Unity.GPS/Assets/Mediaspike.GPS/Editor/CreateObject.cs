@@ -24,7 +24,7 @@ public class CreateObject : MonoBehaviour
     public float speed = 5f;
 
     // Use this for initialization
-    [MenuItem("MyTools/Create Easy Roads")]
+    [MenuItem("GPS Tools/Create Easy Roads")]
     //public static void CreateEasyRoad()
     //{
     //	roadNetwork = new ERRoadNetwork();
@@ -123,7 +123,7 @@ public class CreateObject : MonoBehaviour
     //}
 
 
-    [MenuItem("MyTools/CreateWaypoints")]
+    [MenuItem("GPS Tools/Create Waypoints")]
     public static void CreateWaypoints()
     {
 
@@ -168,7 +168,7 @@ public class CreateObject : MonoBehaviour
 
     }
 
-    [MenuItem("MyTools/CreateRoads")]
+    [MenuItem("GPS Tools/Create Roads")]
     public static void CreateRoads()
     {
 
