@@ -1,0 +1,14 @@
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Chris\Source\Repos\Mediaspike.Unity.GPS\Mediaspike.Unity.GPS\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
